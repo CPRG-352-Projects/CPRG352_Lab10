@@ -2,9 +2,7 @@
 package filters;
 
 import java.io.IOException;
-import java.io.PrintStream;
-import java.io.PrintWriter;
-import java.io.StringWriter;
+
 import javax.servlet.Filter;
 import javax.servlet.FilterChain;
 import javax.servlet.FilterConfig;
@@ -24,6 +22,8 @@ public class AuthenticationFilter implements Filter {
         HttpServletRequest httpRequest = (HttpServletRequest) request;
         HttpSession session = httpRequest.getSession();
         String email = (String) session.getAttribute("email");
+        
+        System.out.println("in authentation filter");
         
         if (email == null) {
             HttpServletResponse httpResponse = (HttpServletResponse) response;

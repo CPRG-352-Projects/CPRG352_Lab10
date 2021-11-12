@@ -3,10 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/lsgte/OneDrive%20-%20Southern%20Alberta%20Institute%20of%20Technology/Semester3/CPRG-352%20Web%20Application/Working%20Folder/examples%20-%20demos/Demo10/Demo10/src/java/servlets/LoginServlet.java</file>
-            <file>file:/C:/Users/lsgte/OneDrive%20-%20Southern%20Alberta%20Institute%20of%20Technology/Semester3/CPRG-352%20Web%20Application/Working%20Folder/examples%20-%20demos/Demo10/Demo10/src/java/filters/AuthenticationFilter.java</file>
-            <file>file:/C:/Users/lsgte/OneDrive%20-%20Southern%20Alberta%20Institute%20of%20Technology/Semester3/CPRG-352%20Web%20Application/Working%20Folder/examples%20-%20demos/Demo10/Demo10/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/lsgte/OneDrive%20-%20Southern%20Alberta%20Institute%20of%20Technology/Semester3/CPRG-352%20Web%20Application/Working%20Folder/examples%20-%20demos/Demo10/Demo10/src/java/filters/AdminFilter.java</file>
+            <file>file:/C:/Users/lsgte/OneDrive%20-%20Southern%20Alberta%20Institute%20of%20Technology/Semester3/CPRG-352%20Web%20Application/Working%20Folder/Lab10/CPRG352_Lab10/src/java/filters/AdminFilter.java</file>
+            <file>file:/C:/Users/lsgte/OneDrive%20-%20Southern%20Alberta%20Institute%20of%20Technology/Semester3/CPRG-352%20Web%20Application/Working%20Folder/Lab10/CPRG352_Lab10/src/java/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/lsgte/OneDrive%20-%20Southern%20Alberta%20Institute%20of%20Technology/Semester3/CPRG-352%20Web%20Application/Working%20Folder/Lab10/CPRG352_Lab10/src/java/servlets/NoteServlet.java</file>
+            <file>file:/C:/Users/lsgte/OneDrive%20-%20Southern%20Alberta%20Institute%20of%20Technology/Semester3/CPRG-352%20Web%20Application/Working%20Folder/Lab10/CPRG352_Lab10/src/java/filters/AuthenticationFilter.java</file>
+            <file>file:/C:/Users/lsgte/OneDrive%20-%20Southern%20Alberta%20Institute%20of%20Technology/Semester3/CPRG-352%20Web%20Application/Working%20Folder/Lab10/CPRG352_Lab10/src/java/services/AccountService.java</file>
         </group>
     </open-files>
 </project-private>
